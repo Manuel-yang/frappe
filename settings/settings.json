@@ -1,0 +1,486 @@
+{
+ "category": "",
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"\u6570\u636e\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6570\u636e\u5bfc\u5165\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5220\u9664\u7684\u6587\u6863\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6279\u91cf\u66f4\u65b0\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"Email/\u901a\u77e5\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7535\u5b50\u90ae\u7bb1\u57df\u540d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u901a\u77e5\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u90ae\u4ef6\u81ea\u52a8\u56de\u590d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u90ae\u4ef6\u6a21\u677f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u90ae\u7bb1\u7528\u6237\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u901a\u77e5\u8bbe\u7f6e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u901a\u8baf\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u6838\u5fc3\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7cfb\u7edf\u8bbe\u7f6e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9519\u8bef\u65e5\u5fd7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9519\u8bef\u5feb\u7167\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u57df\u8bbe\u7f6e\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u6253\u5370\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6253\u5370\u683c\u5f0f\u8bbe\u7f6e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6253\u5370\u8bbe\u7f6e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6253\u5370\u683c\u5f0f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6253\u5370\u6837\u5f0f\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u5de5\u4f5c\u6d41\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u4f5c\u6d41\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u4f5c\u6d41\u72b6\u6001\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u4f5c\u6d41\u64cd\u4f5c\",\"col\":4}}]",
+ "creation": "2020-03-02 15:09:40.527211",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends": "",
+ "extends_another_page": 0,
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "setting",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 0,
+ "label": "Settings",
+ "links": [
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Import Data",
+   "link_count": 0,
+   "link_to": "Data Import",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Export Data",
+   "link_count": 0,
+   "link_to": "Data Export",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Bulk Update",
+   "link_count": 0,
+   "link_to": "Bulk Update",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Download Backups",
+   "link_count": 0,
+   "link_to": "backups",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Deleted Documents",
+   "link_count": 0,
+   "link_to": "Deleted Document",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Email Account",
+   "link_count": 0,
+   "link_to": "Email Account",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Email Domain",
+   "link_count": 0,
+   "link_to": "Email Domain",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Notification",
+   "link_count": 0,
+   "link_to": "Notification",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Email Template",
+   "link_count": 0,
+   "link_to": "Email Template",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Auto Email Report",
+   "link_count": 0,
+   "link_to": "Auto Email Report",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Newsletter",
+   "link_count": 0,
+   "link_to": "Newsletter",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Notification Settings",
+   "link_count": 0,
+   "link_to": "Notification Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Settings",
+   "link_count": 0,
+   "link_to": "Website Settings",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Theme",
+   "link_count": 0,
+   "link_to": "Website Theme",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Script",
+   "link_count": 0,
+   "link_to": "Website Script",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "About Us Settings",
+   "link_count": 0,
+   "link_to": "About Us Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Contact Us Settings",
+   "link_count": 0,
+   "link_to": "Contact Us Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "System Settings",
+   "link_count": 0,
+   "link_to": "System Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Error Log",
+   "link_count": 0,
+   "link_to": "Error Log",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Error Snapshot",
+   "link_count": 0,
+   "link_to": "Error Snapshot",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Domain Settings",
+   "link_count": 0,
+   "link_to": "Domain Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Print Format Builder",
+   "link_count": 0,
+   "link_to": "print-format-builder",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Print Settings",
+   "link_count": 0,
+   "link_to": "Print Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Print Format",
+   "link_count": 0,
+   "link_to": "Print Format",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Print Style",
+   "link_count": 0,
+   "link_to": "Print Style",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Workflow",
+   "link_count": 0,
+   "link_to": "Workflow",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Workflow State",
+   "link_count": 0,
+   "link_to": "Workflow State",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Workflow Action",
+   "link_count": 0,
+   "link_to": "Workflow Action",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2021-09-02 12:55:03.899950",
+ "modified_by": "Administrator",
+ "module": "Core",
+ "name": "Settings",
+ "onboarding": "",
+ "owner": "Administrator",
+ "parent_page": "",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "public": 1,
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 29,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6570\u636e\u5bfc\u5165",
+   "link_to": "Data Import",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5220\u9664\u7684\u6587\u6863",
+   "link_to": "Deleted Document",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6279\u91cf\u66f4\u65b0",
+   "link_to": "Bulk Update",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7535\u5b50\u90ae\u7bb1\u57df\u540d",
+   "link_to": "Email Domain",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u901a\u77e5",
+   "link_to": "Notification",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u90ae\u4ef6\u81ea\u52a8\u56de\u590d",
+   "link_to": "Auto Email Report",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u90ae\u4ef6\u6a21\u677f",
+   "link_to": "Email Template",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u90ae\u7bb1\u7528\u6237",
+   "link_to": "Email Account",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u901a\u77e5\u8bbe\u7f6e",
+   "link_to": "Notification Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u901a\u8baf",
+   "link_to": "Newsletter",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9519\u8bef\u65e5\u5fd7",
+   "link_to": "Error Log",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9519\u8bef\u5feb\u7167",
+   "link_to": "Error Snapshot",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u57df\u8bbe\u7f6e",
+   "link_to": "Domain Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6253\u5370\u683c\u5f0f\u8bbe\u7f6e",
+   "link_to": "print-format-builder",
+   "type": "Page"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6253\u5370\u8bbe\u7f6e",
+   "link_to": "Print Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6253\u5370\u683c\u5f0f",
+   "link_to": "Print Format",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6253\u5370\u6837\u5f0f",
+   "link_to": "Print Style",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u4f5c\u6d41",
+   "link_to": "Workflow",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u4f5c\u6d41\u72b6\u6001",
+   "link_to": "Workflow State",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u4f5c\u6d41\u64cd\u4f5c",
+   "link_to": "Workflow Action",
+   "type": "DocType"
+  }
+ ],
+ "shortcuts_label": "\u8bbe\u7f6e",
+ "title": "\u8bbe\u7f6e"
+}
